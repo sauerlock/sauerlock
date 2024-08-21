@@ -1,5 +1,5 @@
 # 💫 About Me:
-PHP (Laravel) developer with love for blockchain and smartcontracts structures.<br>Still building new things. Always learning.
+PHP (Laravel) developer.<br>Still building new things. Always learning.
 
 
 ## 🌐 Socials:
