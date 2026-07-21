@@ -1,5 +1,5 @@
 # 💫 About Me:
-PHP (Laravel) developer.<br>Still building new things. Always learning.
+developer.<br>Still building new things. Always learning.
 
 
 ## 🌐 Socials:
